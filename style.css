@@ -1,0 +1,23 @@
+*{
+    margin: 30px;
+    padding: 20px;
+}
+.contenedor1{
+    display: flex;
+    margin: 30px;
+}
+
+.title1{
+    font-size: 2em;
+}
+
+.text1{
+    font-size: 25px;
+}
+.image1{
+    height: 500px;
+}
+
+.contenedor2{
+    display:flex
+}
